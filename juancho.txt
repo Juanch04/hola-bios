@@ -1,3 +1,5 @@
+Acerca de mi: Vivo en Medellín y soy profe en BIOS
+
 Nombre: Juan
 Apellido: Cardenas
 Edad: 25
